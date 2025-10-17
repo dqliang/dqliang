@@ -1,5 +1,4 @@
 Name: DaQuan Liang
-Birthday: 11/17/2006
 
 Major: BSCS
 
